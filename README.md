@@ -22,5 +22,5 @@ Types of Array Allocation
 
  What’s Inside
 
-Python examples for each type using simple programs
-C++ examples using arrays, dynamic memory, and vectors
+1. Python examples for each type using simple programs
+2. C++ examples using arrays, dynamic memory, and vectors
